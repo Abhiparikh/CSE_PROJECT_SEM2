@@ -1,0 +1,7 @@
+Instructions for e resources
+
+1. open project file in netbeans or java ide
+
+2. copy paste all the pdf and folder to a directory
+
+3.change the directory in NewJFrame5 design section for it to work
